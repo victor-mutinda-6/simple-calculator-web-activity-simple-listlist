@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Thursday Project</string>
+    <string-array name="the_list">
+        <item>Sara</item>
+        <item>Daniel</item>
+        <item>Prochorus</item>
+        <item>Yvone</item>
+        <item>Kamau</item>
+        <item>Dennis</item>
+        <item>Thelma</item>
+        <item>Alphons</item>
+        <item>Faith</item>
+        <item>Mulumba</item>
+        <item>Senji</item>
+        <item>Shem</item>
+        <item>Sylvia</item>
+        <item>Fidel</item>
+        <item>Tito</item>
+        <item>Levis</item>
+        <item>Victor</item>
+        <item>James</item>
+        <item>Hans</item>
+        <item>Lee</item>
+        <item>Reinhard</item>
+    </string-array>
+
+        <string name="firstno">Enter First Number</string>
+        <string name="calc_ttl"><u>Mbekarm Calculator</u></string>
+        <string name="secondno.">Enter Second Number</string>
+        <string name="addbtn">Add (+)</string>
+        <string name="subtractbtn">Subtract (-)</string>
+        <string name="multiplybtn">Multiply (*)</string>
+        <string name="dividebtn" >Divide (/)</string>
+
+
+</resources>
